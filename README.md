@@ -1,1 +1,1 @@
-# game_diverdani
+# diverGame
